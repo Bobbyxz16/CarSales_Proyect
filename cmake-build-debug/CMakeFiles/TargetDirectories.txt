@@ -1,0 +1,3 @@
+C:/Users/bobby/Videos/Personal_Projects/CarSales_Proyect/cmake-build-debug/CMakeFiles/CarSales_Proyect.dir
+C:/Users/bobby/Videos/Personal_Projects/CarSales_Proyect/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bobby/Videos/Personal_Projects/CarSales_Proyect/cmake-build-debug/CMakeFiles/rebuild_cache.dir
